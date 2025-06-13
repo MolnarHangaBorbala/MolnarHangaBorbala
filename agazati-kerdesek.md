@@ -1,5 +1,3 @@
-# IT Alapismeretek – Tesztkérdések
-
 ## 1. Mit jelent a SOHO kifejezés?
 - a) small office / home office – kis irodai vagy otthoni felhasználásra szánt eszközök  
 - b) smart office / home smart – okos eszközök kisebb irodába vagy otthonra  
