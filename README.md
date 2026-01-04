@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @MolnarHangaBorbala aka _zendev
-- 👀 I’m interested in software.
-- 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on currently nothing.
-- 📫 How to reach me: don't.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I hate history lessons.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MolnarHangaBorbala&show_icons=true&theme=tokyonight)
