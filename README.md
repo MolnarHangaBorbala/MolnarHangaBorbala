@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Frontend banner" />
+  <img src="banner.png" width="100%" alt="Frontend Developer Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Hanga 👋</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Passionate about building clean, modern and user-friendly web interfaces.
+  Passionate about building clean, modern, and user-friendly web interfaces.
 </p>
 
 ---
@@ -24,11 +24,20 @@
 
 ### 🌐 Personal Portfolio
 <a href="https://imzendev.netlify.app/" target="_blank">
-  <img src="portfolio-preview.png" width="700" />
+  <img src="portfolio-preview.png" width="700" alt="Portfolio Preview" />
 </a>
 
 <p>
-A personal portfolio website showcasing my frontend projects, design style and skills.
+A personal portfolio website showcasing my frontend projects, design style, and skills.
+</p>
+
+### 🎨 UI/UX Project Demo
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="UI Animation GIF" />
+</p>
+
+<p>
+A small demo showing interactive UI elements and smooth animations.
 </p>
 
 ---
@@ -59,6 +68,5 @@ A personal portfolio website showcasing my frontend projects, design style and s
 ---
 
 <p align="center">
-  <img src="https://github.com/MolnarHangaBorbala/MolnarHangaBorbala/blob/output/github-contribution-grid-snake.svg" />
+  <em>Always learning. Always building.</em>
 </p>
-
