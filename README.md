@@ -59,5 +59,6 @@ A personal portfolio website showcasing my frontend projects, design style and s
 ---
 
 <p align="center">
-  <em>Always learning. Always building.</em>
+  <img src="https://github.com/MolnarHangaBorbala/MolnarHangaBorbala/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
