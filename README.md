@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Frontend Developer Banner" />
-</p>
-
 <h1 align="center">Hi, I'm Hanga 👋</h1>
 
 <p align="center">
@@ -15,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
 </p>
 
 ---
@@ -23,21 +19,10 @@
 ## 🚀 Featured Projects
 
 ### 🌐 Personal Portfolio
-<a href="https://imzendev.netlify.app/" target="_blank">
-  <img src="portfolio-preview.png" width="700" alt="Portfolio Preview" />
-</a>
+<a href="https://imzendev.netlify.app/" target="_blank"></a>
 
 <p>
 A personal portfolio website showcasing my frontend projects, design style, and skills.
-</p>
-
-### 🎨 UI/UX Project Demo
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="UI Animation GIF" />
-</p>
-
-<p>
-A small demo showing interactive UI elements and smooth animations.
 </p>
 
 ---
