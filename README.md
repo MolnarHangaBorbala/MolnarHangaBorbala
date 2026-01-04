@@ -1,46 +1,63 @@
-# 👋 Szia, Molnár Hanga Borbála vagyok
+<p align="center">
+  <img src="banner.png" width="100%" alt="Frontend banner" />
+</p>
 
-🎨 Frontend fejlesztő, aki szereti az átlátható UI-t és a letisztult megoldásokat  
-🌱 Folyamatosan tanulok és építem a portfóliómat  
-💻 Fő fókusz: modern webes technológiák
+<h1 align="center">Hi, I'm Hanga 👋</h1>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Frontend+Developer;Clean+UI+%26+Modern+UX;Always+Learning" />
+</p>
 
-## 🛠 Tech stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p align="center">
+  Passionate about building clean, modern and user-friendly web interfaces.
+</p>
 
 ---
 
-## 🌟 Kiemelt projektek
-
-🔹 **Portfolio oldal**  
-Saját weboldal, ahol bemutatom a munkáimat és magamat  
-👉 https://imzendev.netlify.app/
-
-🔹 **Frontend projektek**  
-Reszponzív UI-k, JavaScript-alapú logika, React komponensek  
-👉 Nézd meg a repoimat 👇
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,figma" />
+</p>
 
 ---
 
-## 📊 GitHub statisztikák
+## 🚀 Featured Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MolnarHangaBorbala&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MolnarHangaBorbala&layout=compact&theme=tokyonight)
+### 🌐 Personal Portfolio
+<a href="https://imzendev.netlify.app/" target="_blank">
+  <img src="portfolio-preview.png" width="700" />
+</a>
 
----
-
-## 📫 Kapcsolat
-
-🌐 Portfolio: https://imzendev.netlify.app/  
-💼 LinkedIn: *(ide majd jöhet a linked)*  
-📧 Email: *(opcionális)*
+<p>
+A personal portfolio website showcasing my frontend projects, design style and skills.
+</p>
 
 ---
 
-✨ *Always learning, always building.*
+## ✨ What I Focus On
+
+- 🎨 Clean & modern UI design  
+- ⚛️ Component-based React development  
+- 📱 Responsive layouts  
+- 🧩 Writing readable, maintainable code  
+
+---
+
+## 🔗 Let’s Connect
+
+<p align="center">
+  <a href="https://imzendev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Always learning. Always building.</em>
+</p>
